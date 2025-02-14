@@ -1,5 +1,5 @@
 # tutorial-3_practice
-Merge conflict practices 🐈‍⬛
+Merge conflict practices 🌻🐈‍⬛
 
 `git branch`: lists all your current branches. The one you are on will have a * and be colored green
 
