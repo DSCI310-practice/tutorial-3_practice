@@ -1,2 +1,2 @@
 # tutorial-3_practice
-Merge conflict practices
+Merge conflict practices 🐈
